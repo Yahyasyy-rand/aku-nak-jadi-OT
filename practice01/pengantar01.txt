@@ -13,4 +13,3 @@ historian = file log (data)
 data_suhu = menyimpan riwayat data
 counter_bahaya = menghitung berapa kali bahaya 
 pop(0) = buang data lama
-

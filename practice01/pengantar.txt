@@ -1,7 +1,0 @@
-Sensor yang sudah diajarkan merupakan random dalam python
-
-PLC logic yang digunakan menggunakan if/else (kondisi)
-
-Monitoring yang di pantau (output) = print
-
-Alarm sistem = warning

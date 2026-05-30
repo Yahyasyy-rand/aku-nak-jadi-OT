@@ -1,0 +1,16 @@
+Sensor yang sudah diajarkan merupakan random dalam python
+
+PLC logic yang digunakan menggunakan if/else (kondisi)
+
+Monitoring yang di pantau (output) = print
+
+Alarm sistem = warning
+
+Sensor = random
+PLC logic = if/else
+SCADA display = print (output)
+historian = file log (data)
+data_suhu = menyimpan riwayat data
+counter_bahaya = menghitung berapa kali bahaya 
+pop(0) = buang data lama
+

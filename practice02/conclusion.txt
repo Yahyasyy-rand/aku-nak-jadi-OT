@@ -1,0 +1,9 @@
+Ibarat dalam dunia industri, gweh udh mengimplementasikan dalam bentuk codingan berupa;
+
+Tombol START = input (untuk menjalankan sebuah mesin/program dalam indutri)
+Sensor suhu = random (suhu yang dialami mesin berupa abstrak dan tidak bisa di prediksi)
+PLC logic = if + and (kondisi jika dan dalam menjalani program mesin)
+Safety system (ESD)	= shutdown otomatis (ketika terjadi error atau masalah, bisa membuat automatic shutdown pada mesin)
+Mesin = variabel mesin (variabel untuk mesin itu sendiri)
+
+meskipun tidak sepenuhnya mirip, tapi perkiraan proses yang dilakukan mesin dalam minyak dan gas seperti ini dalam ICSS
